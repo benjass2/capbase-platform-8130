@@ -1,0 +1,6 @@
+@PC28130.U202422816.Capbase.Platform_HostAddress = http://localhost:5090
+
+GET {{PC28130.U202422816.Capbase.Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
